@@ -1,3 +1,4 @@
+#изменения ля ля ля
 #задача вынуть ключи по значению в формате "Ivan любит город Moscow и Vladivostok"
 mans=[]	
 favorite_places = {
